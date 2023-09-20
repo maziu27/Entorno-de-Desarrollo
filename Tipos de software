@@ -7,7 +7,15 @@ software de aplicacion
 	- Suites aof, navegadores, juegos, edcion de imagen
 
  software de desarrollo
-  - editores, compiladores e interpretes
+  	- editores, compiladores e interpretes
 
 Firmware: software de bajo nivel que esta cercano y comunica con el hardware
+
+relacion entre hardware software
+
+	- almacena de forma permanente los archivos ejecutables y archivos de datos
+
+	- akmacena de forma temporal el codigo binario de los archivos ejecutables y los archivos de datos necesarios
+
+	- lee y ejecuta instrucciones almacenadas en RAM, asi como los datos necesarios
 
