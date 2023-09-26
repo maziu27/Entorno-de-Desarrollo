@@ -36,3 +36,6 @@ Codigo fuente, objeto y ejecutable
 		- codgio que se genera a partir del codigo fuente que no se entiende
 
 	- codigo ejecutable: archivo binario ejecutable
+		-  solo valido para lenguajes compilados como JAVA C C++
+			- En lenguajes interpretados no existe codigo binario, solo codifo fuente como PHP y javascript
+
