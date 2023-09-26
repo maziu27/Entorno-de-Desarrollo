@@ -6,16 +6,33 @@ software  de sistema
 
 software de aplicacion
 	- Suites aof, navegadores, juegos, edcion de imagen
+		- programas que permiten hacer trabajos 
 
  software de desarrollo
   	- editores, compiladores e interpretes
+		- programas que permite crear otro software y programas
 
 Firmware: software de bajo nivel que esta cercano y comunica con el hardware
 
+
 relacion entre hardware software
 
-	- almacena de forma permanente los archivos ejecutables y archivos de datos
+	- DISCO DURO almacena de forma permanente los archivos ejecutables y archivos de datos
 
-	- akmacena de forma temporal el codigo binario de los archivos ejecutables y los archivos de datos necesarios
+	- memoria RAM almacena de forma temporal el codigo binario de los archivos ejecutables y los archivos de datos necesarios
 
-	- lee y ejecuta instrucciones almacenadas en RAM, asi como los datos necesarios
+	- CPU lee y ejecuta instrucciones almacenadas en RAM, asi como los datos necesarios.
+			- La CPU tiene cache L1,L2 y L3 
+
+	- E/S recoge nuevos datos desde la entrada, se muestran resultados, se leen/guardan a disco
+
+
+Codigo fuente, objeto y ejecutable
+
+	- código fuente: archivo de texto legible escrito en un lenguaje de programacion. 
+		- Permite modificar el programa de una forma sencilla
+
+	- codigo objeto: archivo binario no ejecutable
+		- codgio que se genera a partir del codigo fuente que no se entiende
+
+	- codigo ejecutable: archivo binario ejecutable
