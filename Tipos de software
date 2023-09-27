@@ -82,6 +82,9 @@ CODIFICACION
 	- se utilizan lenguajes 
 		- de programacion como C, C++, Java, Javascript
 		- Otro tipo como HTML, XML, JSON
+PRUEBAS
 
+	- conseguir y chequear que el programa funciona correctamente sin fallos
+		- someter el programa al maximo numero de situaciones diferentes
 
 
