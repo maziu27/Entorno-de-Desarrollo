@@ -68,4 +68,20 @@ ANALISIS
 			- separar requisitos funcionales y no funcionales
 			- dividir y ordenar por jerarquia el modelo
 			- fijar criterios de validacion
+DISEÑO
+	- se descompone y organiza el sistema en elementos que se pueden ser desarrollados por separado
+	- se especifica la interrelacion y funcionalidad de los elementos componentes
+	- Las actividades habituales son las siguientes:
+ 		- diseño arquitectonico,
+		- diseño detallado
+		- diseño de datos
+		- diseño de interfaz de usuario
+CODIFICACION
+
+	- se escribe el codigo fuente
+	- se utilizan lenguajes 
+		- de programacion como C, C++, Java, Javascript
+		- Otro tipo como HTML, XML, JSON
+
+
 
