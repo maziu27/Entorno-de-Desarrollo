@@ -56,4 +56,16 @@ Fases principales
 	- pruebas testear y probar el codigo para saber si funciona bien el codigo
 
 	- mantenimiento y documentacion
-	
+
+
+ANALISIS
+	- definir los requisitos del cliente para cumplir el software a desarrollar
+			- ser completo y sin omisiones
+			- ser conciso y sin trivialidades
+			- evitar ambiguedades y utilizar lenguaje formal
+			- evitar detalles de diseño
+			- sea entendible por el cliente
+			- separar requisitos funcionales y no funcionales
+			- dividir y ordenar por jerarquia el modelo
+			- fijar criterios de validacion
+
