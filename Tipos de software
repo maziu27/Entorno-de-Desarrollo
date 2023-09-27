@@ -40,3 +40,20 @@ Codigo fuente, objeto y ejecutable
 			- En lenguajes interpretados no existe codigo binario, solo codifo fuente como PHP y javascript
 			- el codigo objetivo en java se denomina ByteCode
 
+
+3: ciclo de vida de software
+	- 3.1 ingenieria de software
+		- Estudio de los principios y metodologias para desarrollo y mantenimiento de software
+
+Fases principales
+
+	- analisis saber que necesitamos 
+
+	- diseño como implementar lo que sabemos para solucionar y crear el software
+
+	- codificacion escribir el codigo
+
+	- pruebas testear y probar el codigo para saber si funciona bien el codigo
+
+	- mantenimiento y documentacion
+	
