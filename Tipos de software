@@ -87,4 +87,13 @@ PRUEBAS
 	- conseguir y chequear que el programa funciona correctamente sin fallos
 		- someter el programa al maximo numero de situaciones diferentes
 
+MANTENIMIENTO
+
+	- en la vida del producto hay que realizar cambios ocasionales y revisiones
+	- hay que rehacer parte del trabajo realizado en las fases previas
+		- correctivo: se corrigen defectos
+		- Perfectivo: se mejora la funcionalidad
+		- evolutivo: se añade funcionalidades nuevas
+		- adaptativo: se adapta a nuevos entornos
+
 
