@@ -92,8 +92,22 @@ MANTENIMIENTO
 	- en la vida del producto hay que realizar cambios ocasionales y revisiones
 	- hay que rehacer parte del trabajo realizado en las fases previas
 		- correctivo: se corrigen defectos
+
 		- Perfectivo: se mejora la funcionalidad
+
 		- evolutivo: se añade funcionalidades nuevas
+
 		- adaptativo: se adapta a nuevos entornos
 
 
+3.2.6 resultados de cada fase
+
+	- analisis: especificacion de requisitosde l software
+	- DISEÑO aequitectonico: documento de arquitetura del softwre
+	- DISEÑO detallado: especificacion de modulos y funciones
+	- CODIFICACION: codigo fuente
+	- PRUEBAS de unidades
+	- pruebas de integracion: sistema utilizable
+	- Pruebas del sistema: sistema aceptado
+	- Documentacion: Documentacion tecnica y usuario
+-	mantenimiento informes de errores y control de cambios
