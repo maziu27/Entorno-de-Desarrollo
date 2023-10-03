@@ -111,3 +111,32 @@ MANTENIMIENTO
 	- Pruebas del sistema: sistema aceptado
 	- Documentacion: Documentacion tecnica y usuario
 -	mantenimiento informes de errores y control de cambios
+
+
+4.2 Modelo en cascada:
+	modelo tiene problemas, las fases van por orden y el  resultado de una fase es el empiezo de otra, si una fase va mal la otra fase puede tener problemas al empezar
+
+Modelo en V:
+	Vision jerarquizada con distintos nibeles
+
+
+4.6: Prototipos
+	A menudo los requisitos no estan especificados claramente
+
+		- por no existir experiencia previa	
+		- 
+
+4.7 Prototipos 2
+
+4.8 Prototipos 3
+
+
+4.11 Metodologias agiles 1
+	- Son metodos de ingenieria  del software basaados en el desarrollo iterativoe incremental
+	- Los requisitos y soluciones evolucionan con el tiempo segun la necesidad del proyecto
+	- El trabajo es realizado mediante la colaboracion de equipos auto-organizafos y multidisciplinarios, inmersos en un proceso compartido de toma de decisiones a corto plazo
+	- Las metodologias mas conocidas son
+		-KanBan
+		-Scrum
+		-XP extreme programming
+	
