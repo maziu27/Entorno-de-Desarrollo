@@ -157,4 +157,19 @@ Modelo en V:
 	- Al principio de cada iteracion se establecen sus objetivos priorizados (sprint backlog)
 	- Al finalizar cada iteracion se obtiene una entrega parcial utilizable por el cliente
 	- Existen reuniones diarias para tratar la marcha del sprint
-	
+
+4.12.5 SCRUM roles principales
+	- Product owner es la "voz del cliente" Define criterios de aceptacion y asegura que se cumplan
+	- Scrum Master Asegura que se sigue la metodologia Scrum. Motiva y facilita el trabajo del equipo
+	- Team es el equipo de desarrollo auto-organizado y multifuncional. Entre 6 y 10 miembros.
+
+4.12.6 SCRUM artefactos
+	- Product Backlog es la lista ordenada con los requistios del producto
+	- Sprint backlog es la lista de requisitos sacados del backlog para su desarrollo durante el sprint
+	- Incremento es el estado del producto despues de cada sprint
+
+4.12.7 SCRUM eventos
+	- Sprint evento principal, que contiene el resto de eventos como mucho dura 1 mes
+	- Sprint planning reunion inicial donde se planifica el trabajo del sprint dura como mucho 8 horas
+	- daily scrum es la reunion diaria de puesta en comun sobe la marcha del Sprint. Duracion maxima es de 15 minutos
+	- Scrum review es la reunion final para evaluar el incremento obtenido. duracion maxima es de 4 horas
