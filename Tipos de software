@@ -147,5 +147,14 @@ Modelo en V:
 	- respuesta ante al cambio sobre seguir un plan
 
 	4.12.1 Kanban 1
+		- Sistema de tarjetas
+		- Controla por demanada la fabricacion de los productos necesarios en la cantidad y tiempos necesarios
+		- Enfocado a entregar el máximo valor para los clientes utilizando los recursos justos
 
+4.12.3 SCRUM conceptos
+	- Modelo de desarrollo incremental
+	- Iteraciones (sprint) cada 2 a 4 semanas
+	- Al principio de cada iteracion se establecen sus objetivos priorizados (sprint backlog)
+	- Al finalizar cada iteracion se obtiene una entrega parcial utilizable por el cliente
+	- Existen reuniones diarias para tratar la marcha del sprint
 	
