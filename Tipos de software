@@ -173,3 +173,54 @@ Modelo en V:
 	- Sprint planning reunion inicial donde se planifica el trabajo del sprint dura como mucho 8 horas
 	- daily scrum es la reunion diaria de puesta en comun sobe la marcha del Sprint. Duracion maxima es de 15 minutos
 	- Scrum review es la reunion final para evaluar el incremento obtenido. duracion maxima es de 4 horas
+
+
+
+5. lenguajes de programacion
+
+5.1 Obtencion de codigo ejecutable
+
+	Para obtener codigo binario ejecutable tenemos 
+		/ compilar 
+		/ interpretar
+
+5.2 Porceso de compilacion/interpretacion
+
+	La compilacion/interpretacion del codigo fuente se lleva a cabo en dos fases:
+		1: Analisis léxico
+		2: Analisis sintáctico
+- si no hay errores se genera el codigo objeto correspondiente
+- Un codigo fuente correctamente escrito no significa que funciona segun lo deseado
+- NO se realiza un análisis semántico
+
+5.3 Lenguajes compilados
+	- C, C++
+	- Principal ventaja: Ejecucion muy eficiente
+	- PRincipal desventaja: Es necesario compilar cada vez que el codigo fuente es modificado
+5.4 Lenguajes interpretados
+	- PHP, javascript
+	- Principal ventaja: el codigo fuente se interpreta directamente
+	- principal desventaja: ejecucion menos eficiente
+
+5.5 JAVA 1
+
+	- lenguajes compilados e interpretados
+	- El codigo fuente Java se compila y se obtiene un código binario intermedio llamado bytecode
+	- Puede considerarse código objeto peero destinado a la máquina virtual de Java en lugar de código objeto nativo
+	- Después eeste bytecode se interpreta para ejecutarlo
+
+5.6 JAVA 2
+
+	- Ventajas
+		estructurado y orientado a objetos
+		relativamente facil de aprender
+		buena documentacion y base de usuarios
+	- Desventajas
+		Menos eficiente que los lenguajes compilados
+
+5.7 Tipos 1
+
+	- Segun en la forma que operan
+		Declarativo: indicamos el resultado a obtener sin especificar los pasos
+		Imperativo: indicamos los pasos a seguir para obtener un resultado
+
