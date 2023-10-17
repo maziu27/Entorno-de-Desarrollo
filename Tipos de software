@@ -223,4 +223,52 @@ Modelo en V:
 	- Segun en la forma que operan
 		Declarativo: indicamos el resultado a obtener sin especificar los pasos
 		Imperativo: indicamos los pasos a seguir para obtener un resultado
+5.8 Tipos 2
 
+	- Tipos lenguajes declarativos:
+		- Logicos: utilizan reglas. Ej: Prolog
+		- Funcionales: utilizan funciones: Ej Lisp, HAskell
+		- Algebraicos: utlizan sentencias: Ej SQL
+	- normalmente son lenguajes interpretados
+
+5.9 Tipos 3
+
+	- Tipos de lenguajes imperativos:
+		- Estructurados: C
+		- Orientados a objeto: Java
+		- Multiparadigma: C++, Javascript
+	- Los lenguajes orientados a objetos son también lenguajes estructurados
+	- Muchos de estos lenguajes son compilados
+
+5.10 Tipos (IV)
+
+	- Tipos de lenguajes segun nivel de abstraccion
+		- Bajo nivel: ensamblador
+		- Medio nivel: C
+		- Alto nivel: C++, Java
+
+5.11 evolucion
+
+	- Codigo binario
+	- Ensamblador
+	- Lenguajes estructurados
+	- Lenguajes orientados a objetos
+
+5.12 Criterios para la seleccion de un lenguaje
+
+	- Campo de aplicacion
+	- experiencia previa
+	- herramientas de desarrollo
+	- Documentacion disponibl
+	- base de usuarios
+	- reusabilidad
+	- transportabilidad
+	- imposicion del cliente
+
+
+
+
+
+
+nota unidad 1 tener repositorio bien
+examen tipo test en el ordenador 20 preguntas
